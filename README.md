@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Fathy</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Craftsman | Problem Solver</h3>
+<h3 align="center"
+>🚀 Flutter Developer | Mobile App Craftsman | Problem Solver</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-blue?logo=flutter&logoColor=white" />
@@ -29,13 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMFathyDev&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMFathyDev&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
 
 ## 📈 Activity Graph
 <p align="center">
