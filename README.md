@@ -40,8 +40,8 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedfathy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahmed@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
+  <a href="linkedin.com/in/ahmed-fathy-16baa9339"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmed.m.fathy300@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
