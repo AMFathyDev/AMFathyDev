@@ -28,15 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [E-commerce App](https://github.com/AMFathyDev/ecommerce-app) | Full-featured store app with payment gateway | Flutter, Firebase |
-| [Task Manager](https://github.com/AMFathyDev/task-manager) | Manage daily tasks with local storage | Flutter |
-| [Portfolio Website](https://yourwebsite.com) | Personal brand & portfolio website | HTML, CSS, JS |
-
----
-
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedfathy"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
