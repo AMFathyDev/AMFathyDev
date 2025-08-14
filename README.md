@@ -22,7 +22,8 @@
 | **Category**        | **Technologies** |
 |---------------------|------------------|
 | Mobile Development  | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
-| Backend & APIs      | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white) |
+| Backend & APIs      | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![
+REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white) |
 | Maps & Location     | ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white) ![Location Services](https://img.shields.io/badge/GeoLocation-4CAF50?logo=mapbox&logoColor=white) |
 | UI/UX Design        | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive-000000?logo=responsive&logoColor=white) |
 | Collaboration       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) |
@@ -40,3 +41,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AMFathyDev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMFathyDev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMFathyDev&layout=compact&theme=radical)
