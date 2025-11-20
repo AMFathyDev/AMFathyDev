@@ -10,11 +10,11 @@
 ---
 
 ## 💡 About Me
-- 🔭 Currently building **modern, scalable mobile applications** with Flutter & Firebase.
-- 🎯 My goal: **Delivering clean, performant & user-friendly apps**.
-- 📍 Based in **Egypt**, working with clients worldwide.
-- 💬 Ask me about **Flutter, Firebase, and Mobile Architecture**.
-- ⚡ Fun fact: I believe coffee is part of the coding process ☕
+- I build **high‑performance Flutter apps** with clean architecture and scalable patterns.
+- Specialized in **BLoC/Cubit**, Firebase integrations, REST APIs, and advanced UI animations.
+- Passionate about creating **smooth, modern, user‑friendly experiences**.
+- Experienced in turning client ideas into **stable, production‑ready mobile applications**.
+- Coffee + Code = Perfect Combo ☕
 
 ---
 
@@ -26,6 +26,25 @@
 | Maps & Location     | ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white) ![Location Services](https://img.shields.io/badge/GeoLocation-4CAF50?logo=mapbox&logoColor=white) |
 | UI/UX Design        | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive-000000?logo=googlechrome&logoColor=white) |
 | Collaboration       | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) |
+
+---
+
+## 📫 Let's Connect
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ahmed-fathy-16baa9339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4J1OmnWgQMOSkcUb%2Bj7P8g%3D%3D" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ahmed.m.fathy300@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
