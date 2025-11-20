@@ -48,6 +48,14 @@
 
 ---
 
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMFathyDev&theme=react-dark" alt="Ahmed's GitHub Activity Graph" />
+</p>
+
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AMFathyDev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
