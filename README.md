@@ -48,21 +48,6 @@
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AMFathyDev&theme=react-dark" alt="Ahmed's GitHub Activity Graph" />
-</p>
-
----
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-fathy-16baa9339?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4J1OmnWgQMOSkcUb%2Bj7P8g%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahmed.m.fathy300@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AMFathyDev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
